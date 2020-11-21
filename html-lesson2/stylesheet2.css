@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  font-family: "Hiragino Kaku Gothic ProN";
+  background-color: #ffffff;
+  font-weight: normal;
+}
+
+.contents {
+  width: 1000px;
+  margin: 30px auto;
+  text-align: center;
+}
+
+h1 {
+  margin: 70px 0;
+  padding: 30px 0;
+  font-size: 30px;
+  font-weight: normal;
+  border-top: 6px double #000;
+  border-bottom: 6px double #000;;
+}
+
+img{
+  margin-right: 40px;
+}
+
+p {
+ font-size: 20px;
+}
+
+.A{
+  margin-top: 150px;
+}
+
+.B{
+  margin-top: 80px;
+}
+
+.D{
+  height: 400px;
+}
+
+.F{
+  margin-top: 50px;
+}
